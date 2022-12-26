@@ -9,15 +9,15 @@ global.APIs = {
 
 // Free apikey (Apikey expired silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-	'https://api.zeeoneofc.my.id': 'V12',  // 👉 login https://api.zeeoneofc.xyz to get apikey
+	'https://api.zeeoneofc.my.id': '7oLa62wq',  // 👉 login https://api.zeeoneofc.xyz to get apikey
 }
 
 // setting 
-global.autoread = false // auto read message
-global.autobio = false //auto ganti bio
+global.autoread = true // auto read message
+global.autobio = true //auto ganti bio
 global.anticall = true //anti call 
 global.userRegister = false 
-global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
+global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
 //Available in indonesia , english & spanyol 
@@ -40,7 +40,7 @@ global.owner = ["6282221792667","6281395861695"] //ganti agar fitur owner bisa d
 global.ownernomer = "6282221792667" // nomor wa kalian
 global.ownernomerr = "+6282221792667" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
-global.donasi = "./image/donasi.jpg" // foto donasi di folder image
+global.donasi = "./image/lol.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
 global.packname = '© Kanjut Ireng' //sticker wm ubah
